@@ -3,7 +3,7 @@
 #### Table of Contents
 
 1. [Overview](#overview)
-2. [Limitations - OS compatibility, etc.](#limitations)
+2. [Limitations](#limitations)
 
 ## Overview
 
