@@ -1,0 +1,15 @@
+{
+  "name": "faker-idrac",
+  "version": "0.1.0",
+  "author": "faker",
+  "summary": "Export iDRAC facts",
+  "license": "Apache 2.0",
+  "source": "",
+  "issues_url": null,
+  "project_page": null,
+  "dependencies": [
+
+  ]
+
+}
+
