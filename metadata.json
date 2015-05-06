@@ -1,7 +1,7 @@
 {
-  "name": "faker-idrac",
+  "name": "rmueller-idrac",
   "version": "0.1.0",
-  "author": "faker",
+  "author": "Roman Mueller",
   "summary": "Export iDRAC facts",
   "license": "Apache 2.0",
   "source": "",
