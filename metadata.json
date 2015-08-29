@@ -3,13 +3,18 @@
   "version": "0.1.0",
   "author": "Roman Mueller",
   "summary": "Export iDRAC facts",
-  "license": "Apache 2.0",
-  "source": "",
-  "issues_url": null,
-  "project_page": null,
+  "license": "Apache-2.0",
+  "source": "https://github.com/roman-mueller/rmueller-idrac",
+  "project_page": "https://github.com/roman-mueller/rmueller-idrac",
+  "issues_url": "https://github.com/roman-mueller/rmueller-idrac/issues",
+  "tags": ["idrac"],
+  "operatingsystem_support": [
+    {
+    "operatingsystem":"CentOS",
+    "operatingsystemrelease":[ "5", "6" ]
+    }
+  ],
   "dependencies": [
-
   ]
-
 }
 
